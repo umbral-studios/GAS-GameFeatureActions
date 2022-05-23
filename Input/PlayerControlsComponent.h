@@ -14,7 +14,7 @@ class UInputAction;
 
 /** Modular pawn component for adding input actions and an optional input mapping to a pawn */
 UCLASS(Blueprintable, BlueprintType, Category = "Input", meta = (BlueprintSpawnableComponent))
-class ANCIENTGAME_API UPlayerControlsComponent : public UPawnComponent
+class <PROJECT_NAME_UPPER>_API UPlayerControlsComponent : public UPawnComponent
 {
 	GENERATED_BODY()
 

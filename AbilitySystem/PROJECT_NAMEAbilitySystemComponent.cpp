@@ -1,9 +1,9 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "<PROJECT_NAME>AbilitySystemComponent.h"
-#include "Animation/<PROJECT_NAME>AnimInstance.h"
+#include "<PROJECT_NAME>/Animation/<PROJECT_NAME>AnimInstance.h"
 #include "Components/SkeletalMeshComponent.h"
-#include "AbilitySystem/<PROJECT_NAME>AbilityAttributeSet.h"
+#include "<PROJECT_NAME>/AbilitySystem/<PROJECT_NAME>AbilityAttributeSet.h"
 
 void U<PROJECT_NAME>AbilitySystemComponent::InitAbilityActorInfo(AActor* InOwnerActor, AActor* InAvatarActor)
 {

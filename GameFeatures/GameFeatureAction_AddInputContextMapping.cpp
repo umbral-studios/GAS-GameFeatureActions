@@ -1,11 +1,11 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "GameFeatureAction_AddInputContextMapping.h"
-#include "<PROJECT_NAME>.h"
+#include "<PROJECT_NAME>/<PROJECT_NAME>.h"
 #include "Engine/AssetManager.h"
 #include "GameFeaturesSubsystemSettings.h"
 #include "Components/GameFrameworkComponentManager.h"
-#include "Character/<PROJECT_NAME>PlayerController.h"
+#include "GameFramework/PlayerController.h"
 #include "EnhancedInputSubsystems.h"
 #include "InputMappingContext.h"
 

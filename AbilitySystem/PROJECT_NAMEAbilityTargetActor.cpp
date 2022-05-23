@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "<PROJECT_NAME>AbilityTargetActor.h"
-#include "<PROJECT_NAME>.h"
+#include "<PROJECT_NAME>/<PROJECT_NAME>.h"
 #include "Abilities/GameplayAbility.h"
 #include "Engine/BlueprintGeneratedClass.h"
 

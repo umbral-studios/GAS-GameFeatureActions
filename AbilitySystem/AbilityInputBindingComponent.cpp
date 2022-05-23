@@ -1,7 +1,7 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "AbilityInputBindingComponent.h"
-#include "<PROJECT_NAME>.h"
+#include "<PROJECT_NAME>/<PROJECT_NAME>.h"
 #include "InputAction.h"
 #include "EnhancedInputComponent.h"
 #include "AbilitySystemComponent.h"

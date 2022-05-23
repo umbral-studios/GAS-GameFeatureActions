@@ -1,13 +1,13 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #include "GameFeatureAction_AddAbilities.h"
-#include "<PROJECT_NAME>.h"
+#include "<PROJECT_NAME>/<PROJECT_NAME>.h"
 #include "Components/GameFrameworkComponentManager.h"
 #include "GameFeaturesSubsystemSettings.h"
 #include "Engine/AssetManager.h"
-#include "AbilitySystem/<PROJECT_NAME>AbilitySystemComponent.h"
-#include "AbilitySystem/<PROJECT_NAME>AbilityAttributeSet.h"
-#include "AbilitySystem/AbilityInputBindingComponent.h"
+#include "<PROJECT_NAME>/AbilitySystem/<PROJECT_NAME>AbilitySystemComponent.h"
+#include "<PROJECT_NAME>/AbilitySystem/<PROJECT_NAME>AbilityAttributeSet.h"
+#include "<PROJECT_NAME>/AbilitySystem/AbilityInputBindingComponent.h"
 
 #define LOCTEXT_NAMESPACE "<PROJECT_NAME>Features"
 

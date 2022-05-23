@@ -13,7 +13,7 @@
 	GAMEPLAYATTRIBUTE_VALUE_INITTER(PropertyName)
 
 UCLASS(Abstract, EditInlineNew)
-class ANCIENTGAME_API U<PROJECT_NAME>AbilityAttributeSet : public UAttributeSet
+class <PROJECT_NAME_UPPER>_API U<PROJECT_NAME>AbilityAttributeSet : public UAttributeSet
 {
 	GENERATED_BODY()
 };
